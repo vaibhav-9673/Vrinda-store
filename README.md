@@ -32,6 +32,7 @@ This stage began with getting to know the dataset and checking for any data qual
 
 ### Data Visualization
 Finally, the dashboard was created by inserting and customizing the charts of corresponding Data. For user friendly and interactive experience 3 "Slicers" were added.
+<https://github.com/vaibhav-9673/Vrinda-store/blob/main/C'Lai%20World%20Dashboard.png>
 
 ### Insights
 <br>**Key insights from the analysis:** 📅 Peak Months: February and March witness the highest orders and sales activity.
